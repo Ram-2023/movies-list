@@ -1,0 +1,32 @@
+<movies>
+<theatre>
+<movie>Ala Vaikuntapuram lo</movie>
+<seats>272</seats>
+<cost>150/-</cost>
+<timings>11:15 am to 2:00 pm</timings>
+</theatre>
+<theatre>
+<movie>Geeta Govindam</movie>
+<seats>272</seats>
+<cost>145/-</cost>
+<timings>2:00 pm to 5:00 pm</timings>
+</theatre>
+<theatre>
+<movie>Dookudu</movie>
+<seats>272</seats>
+<cost>160/-</cost>
+<timings>6:15 pm to 9:15 pm</timings>
+</theatre>
+<theatre>
+<movie>Dhruva</movie>
+<seats>272</seats>
+<cost>155/-</cost>
+<timings> 9:15 pm to 12:00 am</timings>
+</theatre>
+<theatre>
+<movie>Ismart Shankar</movie>
+<seats>272</seats>
+<cost>170/-</cost>
+<timings>4:00 am to 6:30 am</timings>
+</theatre>
+</movies>
